@@ -1,0 +1,16 @@
+C:\Users\Денис\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.Echo\bin\Debug\Telegram.Bot.Examples.Echo.exe.config
+C:\Users\Денис\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.Echo\bin\Debug\Telegram.Bot.Examples.Echo.exe
+C:\Users\Денис\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.Echo\bin\Debug\Telegram.Bot.Examples.Echo.pdb
+C:\Users\Денис\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.Echo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Денис\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.Echo\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Денис\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.Echo\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Денис\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.Echo\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Денис\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.Echo\bin\Debug\Telegram.Bot.dll
+C:\Users\Денис\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.Echo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Денис\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.Echo\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Денис\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.Echo\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Денис\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.Echo\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Денис\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.Echo\bin\Debug\Telegram.Bot.xml
+C:\Users\Денис\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.Echo\obj\Debug\Telegram.Bot.Examples.Echo.csprojResolveAssemblyReference.cache
+C:\Users\Денис\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.Echo\obj\Debug\Telegram.Bot.Examples.Echo.exe
+C:\Users\Денис\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.Echo\obj\Debug\Telegram.Bot.Examples.Echo.pdb
